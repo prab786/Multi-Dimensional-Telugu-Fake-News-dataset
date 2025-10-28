@@ -1,0 +1,511 @@
+ID,What is the rating of the news?,Any visual data required to judge the verdict?,To what extent is the news harmful to society?,Category of harm?
+0,FALSE,Textual data is enough,1,Harmless
+1,FALSE,Visual data required,2,Threat to honor and trust in people and companies
+2,FALSE,Visual data required,1,Harmless
+3,half true & half false,Visual data required,1,Harmless
+4,FALSE,Visual data required,1,Harmless
+5,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+6,half true & half false,Textual data is enough,1,Harmless
+7,FALSE,Textual data is enough,1,Harmless
+8,FALSE,Textual data is enough,1,Harmless
+9,FALSE,Textual data is enough,1,Harmless
+10,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+11,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+12,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+13,FALSE,Textual data is enough,1,Harmless
+14,half true & half false,Textual data is enough,3,Prejudice against country and race
+15,half true & half false,Visual data required,2,Confusion and anxiety about society
+16,FALSE,Visual data required,1,Harmless
+17,half true & half false,Textual data is enough,1,Harmless
+18,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+19,FALSE,Visual data required,1,Harmless
+20,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+21,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+22,FALSE,Visual data required,1,Harmless
+23,FALSE,Visual data required,1,Harmless
+24,FALSE,Visual data required,1,Harmless
+25,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+26,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+27,FALSE,Textual data is enough,3,Threat to honor and trust in people and companies
+28,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+29,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+30,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+31,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+32,FALSE,Textual data is enough,1,Health
+33,FALSE,Visual data required,1,Harmless
+34,half true & half false,Textual data is enough,1,Harmless
+35,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+36,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+37,FALSE,Visual data required,1,Harmless
+38,FALSE,Textual data is enough,1,Conspiracy Theory
+39,half true & half false,Textual data is enough,1,Harmless
+40,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+41,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+42,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+43,FALSE,Textual data is enough,1,Harmless
+44,FALSE,Textual data is enough,2,Threat to honor and trust in people and companies
+45,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+46,FALSE,Textual data is enough,2,Conspiracy Theory
+47,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+48,half true & half false,Textual data is enough,1,Harmless
+49,FALSE,Textual data is enough,2,Threat to honor and trust in people and companies
+50,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
+51,FALSE,Textual data is enough,2,Prejudice against country and race
+52,half true & half false,Textual data is enough,1,Harmless
+53,FALSE,Visual data required,1,Harmless
+54,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+55,half true & half false,Visual data required,1,Harmless
+56,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+57,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+58,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+59,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+60,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+61,FALSE,Textual data is enough,1,Harmless
+62,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+63,FALSE,Visual data required,2,Conspiracy Theory
+64,FALSE,Visual data required,2,Confusion and anxiety about society
+65,FALSE,Visual data required,2,Confusion and anxiety about society
+66,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+67,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+68,FALSE,Textual data is enough,1,Harmless
+69,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
+70,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+71,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+72,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+73,FALSE,Visual data required,1,Harmless
+74,FALSE,Visual data required,1,Harmless
+75,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+76,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+77,FALSE,Textual data is enough,1,Conspiracy Theory
+78,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+79,FALSE,Visual data required,2,Threat to honor and trust in people and companies
+80,FALSE,Visual data required,1,Harmless
+81,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+82,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+83,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+84,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+85,half true & half false,Textual data is enough,1,Not sure
+86,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+87,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+88,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+89,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+90,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+91,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+92,half true & half false,Visual data required,3,Threat to correct understanding of politics and social events
+93,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+94,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+95,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+96,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+97,half true & half false,Visual data required,3,Prejudice against country and race
+98,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+99,half true & half false,Visual data required,1,Harmless
+100,FALSE,Visual data required,2,Conspiracy Theory
+101,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+102,half true & half false,Textual data is enough,1,Harmless
+103,half true & half false,Visual data required,1,Harmless
+104,half true & half false,Visual data required,1,Threat to honor and trust in people and companies
+105,FALSE,Visual data required,2,Threat to honor and trust in people and companies
+106,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+107,FALSE,Visual data required,1,Harmless
+108,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+109,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+110,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+111,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+112,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+113,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+114,half true & half false,Visual data required,2,Confusion and anxiety about society
+115,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+116,half true & half false,Textual data is enough,1,Harmless
+117,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+118,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+119,half true & half false,Textual data is enough,2,Confusion and anxiety about society
+120,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+121,half true & half false,Visual data required,1,Harmless
+122,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+123,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
+124,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+125,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+126,FALSE,Visual data required,1,Harmless
+127,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+128,half true & half false,Visual data required,2,Prejudice against country and race
+129,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+130,FALSE,Visual data required,1,Harmless
+131,half true & half false,Textual data is enough,1,Harmless
+132,FALSE,Visual data required,1,Harmless
+133,half true & half false,Visual data required,2,Confusion and anxiety about society
+134,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+135,half true & half false,Visual data required,1,Harmless
+136,half true & half false,Visual data required,1,Threat to honor and trust in people and companies
+137,FALSE,Visual data required,3,Prejudice against country and race
+138,half true & half false,Visual data required,1,Harmless
+139,FALSE,Textual data is enough,2,Health
+140,half true & half false,Textual data is enough,2,Confusion and anxiety about society
+141,half true & half false,Visual data required,1,Threat to honor and trust in people and companies
+142,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+143,FALSE,Visual data required,2,Prejudice against country and race
+144,half true & half false,Textual data is enough,1,Harmless
+145,FALSE,Visual data required,1,Harmless
+146,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
+147,FALSE,Textual data is enough,3,Confusion and anxiety about society
+148,half true & half false,Textual data is enough,2,Prejudice against country and race
+149,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+150,half true & half false,Visual data required,1,Harmless
+151,half true & half false,Visual data required,3,Prejudice against country and race
+152,half true & half false,Textual data is enough,1,Harmless
+153,half true & half false,Textual data is enough,1,Harmless
+154,half true & half false,Visual data required,1,Harmless
+155,FALSE,Visual data required,1,Harmless
+156,half true & half false,Textual data is enough,2,Prejudice against country and race
+157,half true & half false,Textual data is enough,1,Harmless
+158,FALSE,Textual data is enough,2,Conspiracy Theory
+159,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+160,half true & half false,Textual data is enough,1,Threat to honor and trust in people and companies
+161,FALSE,Visual data required,1,Harmless
+162,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+163,half true & half false,Visual data required,1,Harmless
+164,FALSE,Visual data required,1,Prejudice against country and race
+165,half true & half false,Visual data required,2,Threat to honor and trust in people and companies
+166,FALSE,Visual data required,2,Confusion and anxiety about society
+167,FALSE,Visual data required,1,Harmless
+168,half true & half false,Textual data is enough,1,Harmless
+169,half true & half false,Textual data is enough,1,Harmless
+170,FALSE,Textual data is enough,2,Confusion and anxiety about society
+171,half true & half false,Textual data is enough,1,Confusion and anxiety about society
+172,FALSE,Visual data required,1,Harmless
+173,FALSE,Visual data required,1,Harmless
+174,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+175,FALSE,Textual data is enough,2,Health
+176,half true & half false,Textual data is enough,1,Threat to honor and trust in people and companies
+177,FALSE,Visual data required,1,Harmless
+178,half true & half false,Textual data is enough,1,Harmless
+179,half true & half false,Textual data is enough,1,Threat to honor and trust in people and companies
+180,half true & half false,Textual data is enough,2,Prejudice against country and race
+181,half true & half false,Visual data required,2,Prejudice against country and race
+182,FALSE,Visual data required,1,Harmless
+183,half true & half false,Visual data required,1,Harmless
+184,FALSE,Textual data is enough,1,Harmless
+185,FALSE,Visual data required,1,Harmless
+186,half true & half false,Visual data required,2,Threat to correct understanding of politics and social events
+187,FALSE,Visual data required,2,Prejudice against country and race
+188,FALSE,Textual data is enough,1,Harmless
+189,FALSE,Visual data required,1,Harmless
+190,FALSE,Visual data required,2,Prejudice against country and race
+191,FALSE,Textual data is enough,1,Harmless
+192,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+193,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+194,half true & half false,Visual data required,1,Harmless
+195,half true & half false,Visual data required,1,Harmless
+196,FALSE,Visual data required,1,Harmless
+197,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+198,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+199,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+200,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+201,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+202,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+203,FALSE,Textual data is enough,3,Threat to honor and trust in people and companies
+204,half true & half false,Textual data is enough,1,Harmless
+205,FALSE,Textual data is enough,1,Harmless
+206,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+207,FALSE,Visual data required,1,Harmless
+208,FALSE,Visual data required,1,Harmless
+209,half true & half false,Visual data required,3,Prejudice against country and race
+210,half true & half false,Visual data required,2,Threat to honor and trust in people and companies
+211,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+212,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+213,FALSE,Visual data required,2,Not sure
+214,half true & half false,Textual data is enough,1,Harmless
+215,half true & half false,Textual data is enough,2,Threat to honor and trust in people and companies
+216,half true & half false,Visual data required,1,Harmless
+217,FALSE,Visual data required,1,Harmless
+218,FALSE,Textual data is enough,1,Prejudice against country and race
+219,FALSE,Visual data required,1,Harmless
+220,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+221,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+222,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+223,FALSE,Textual data is enough,1,Harmless
+224,FALSE,Textual data is enough,1,Harmless
+225,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+226,FALSE,Textual data is enough,1,Harmless
+227,half true & half false,Visual data required,1,Threat to honor and trust in people and companies
+228,FALSE,Visual data required,1,Harmless
+229,half true & half false,Visual data required,1,Harmless
+230,FALSE,Textual data is enough,1,Harmless
+231,FALSE,Visual data required,1,Prejudice against country and race
+232,FALSE,Textual data is enough,2,Threat to honor and trust in people and companies
+233,half true & half false,Textual data is enough,2,Health
+234,half true & half false,Textual data is enough,1,Prejudice against country and race
+235,half true & half false,Visual data required,1,Harmless
+236,half true & half false,Textual data is enough,2,Confusion and anxiety about society
+237,half true & half false,Textual data is enough,1,Confusion and anxiety about society
+238,FALSE,Textual data is enough,1,Harmless
+239,half true & half false,Visual data required,2,Prejudice against country and race
+240,half true & half false,Textual data is enough,1,Harmless
+241,half true & half false,Textual data is enough,2,Health
+242,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+243,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+244,FALSE,Visual data required,1,Harmless
+245,FALSE,Textual data is enough,1,Prejudice against country and race
+246,half true & half false,Visual data required,2,Health
+247,FALSE,Textual data is enough,1,Harmless
+248,FALSE,Textual data is enough,1,Harmless
+249,half true & half false,Textual data is enough,1,Harmless
+250,FALSE,Visual data required,1,Harmless
+251,FALSE,Visual data required,1,Harmless
+252,half true & half false,Textual data is enough,1,Not sure
+253,FALSE,Textual data is enough,1,Harmless
+254,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+255,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+256,FALSE,Visual data required,1,Harmless
+257,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+258,FALSE,Textual data is enough,1,Harmless
+259,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+260,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+261,FALSE,Textual data is enough,2,Confusion and anxiety about society
+262,FALSE,Textual data is enough,1,Harmless
+263,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
+264,FALSE,Textual data is enough,2,Harmless
+265,half true & half false,Textual data is enough,1,Health
+266,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+267,FALSE,Visual data required,1,Harmless
+268,half true & half false,Textual data is enough,1,Threat to honor and trust in people and companies
+269,FALSE,Textual data is enough,2,Prejudice against country and race
+270,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+271,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
+272,FALSE,Visual data required,1,Confusion and anxiety about society
+273,FALSE,Visual data required,1,Harmless
+274,half true & half false,Textual data is enough,1,Confusion and anxiety about society
+275,half true & half false,Visual data required,1,Harmless
+276,half true & half false,Visual data required,1,Harmless
+277,half true & half false,Visual data required,1,Harmless
+278,half true & half false,Visual data required,2,Confusion and anxiety about society
+279,FALSE,Textual data is enough,1,Harmless
+280,FALSE,Textual data is enough,2,Prejudice against country and race
+281,FALSE,Textual data is enough,1,Confusion and anxiety about society
+282,FALSE,Textual data is enough,2,Confusion and anxiety about society
+283,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+284,FALSE,Textual data is enough,2,Threat to honor and trust in people and companies
+285,half true & half false,Textual data is enough,2,Prejudice against country and race
+286,FALSE,Visual data required,2,Confusion and anxiety about society
+287,half true & half false,Textual data is enough,1,Prejudice against country and race
+288,FALSE,Visual data required,2,Prejudice against country and race
+289,half true & half false,Textual data is enough,2,Prejudice against country and race
+290,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+291,FALSE,Visual data required,1,Harmless
+292,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+293,FALSE,Visual data required,2,Confusion and anxiety about society
+294,FALSE,Textual data is enough,2,Prejudice against country and race
+295,FALSE,Visual data required,2,Prejudice against country and race
+296,FALSE,Textual data is enough,1,Prejudice against country and race
+297,FALSE,Textual data is enough,2,Harmless
+298,FALSE,Textual data is enough,1,Harmless
+299,FALSE,Textual data is enough,1,Prejudice against country and race
+300,FALSE,Textual data is enough,1,Harmless
+301,FALSE,Textual data is enough,2,Prejudice against country and race
+302,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+303,FALSE,Textual data is enough,1,Harmless
+304,FALSE,Textual data is enough,2,Confusion and anxiety about society
+305,half true & half false,Textual data is enough,2,Threat to correct understanding of politics and social events
+306,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+307,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+308,FALSE,Visual data required,2,Confusion and anxiety about society
+309,FALSE,Visual data required,2,Confusion and anxiety about society
+310,half true & half false,Visual data required,1,Prejudice against country and race
+311,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+312,half true & half false,Textual data is enough,1,Harmless
+313,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+314,FALSE,Textual data is enough,3,Prejudice against country and race
+315,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+316,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+317,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+318,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+319,FALSE,Textual data is enough,2,Prejudice against country and race
+320,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+321,half true & half false,Textual data is enough,2,Confusion and anxiety about society
+322,FALSE,Textual data is enough,1,Not sure
+323,half true & half false,Visual data required,1,Harmless
+324,half true & half false,Visual data required,2,Health
+325,FALSE,Textual data is enough,1,Harmless
+326,FALSE,Visual data required,3,Threat to correct understanding of politics and social events
+327,FALSE,Textual data is enough,2,Prejudice against country and race
+328,half true & half false,Textual data is enough,1,Harmless
+329,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+330,FALSE,Visual data required,2,Prejudice against country and race
+331,half true & half false,Textual data is enough,1,Harmless
+332,half true & half false,Visual data required,2,Prejudice against country and race
+333,FALSE,Textual data is enough,1,Harmless
+334,FALSE,Textual data is enough,2,Threat to honor and trust in people and companies
+335,FALSE,Textual data is enough,1,Harmless
+336,FALSE,Textual data is enough,1,Harmless
+337,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+338,FALSE,Textual data is enough,1,Health
+338,FALSE,Textual data is enough,1,Harmless
+340,FALSE,Visual data required,1,Harmless
+341,FALSE,Textual data is enough,3,Confusion and anxiety about society
+342,half true & half false,Textual data is enough,1,Harmless
+343,FALSE,Textual data is enough,1,Harmless
+344,FALSE,Textual data is enough,1,Harmless
+345,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+346,FALSE,Textual data is enough,1,Health
+347,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+348,FALSE,Textual data is enough,2,Prejudice against country and race
+349,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+350,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+351,FALSE,Textual data is enough,1,Harmless
+352,FALSE,Visual data required,2,Confusion and anxiety about society
+353,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+354,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+355,FALSE,Textual data is enough,2,Prejudice against country and race
+356,FALSE,Visual data required,1,Harmless
+357,FALSE,Textual data is enough,1,Harmless
+358,FALSE,Textual data is enough,2,Prejudice against country and race
+359,FALSE,Textual data is enough,1,Prejudice against country and race
+360,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+362,FALSE,Visual data required,2,Prejudice against country and race
+362,FALSE,Visual data required,1,Health
+363,half true & half false,Visual data required,1,Harmless
+364,half true & half false,Visual data required,2,Prejudice against country and race
+365,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+366,FALSE,Visual data required,1,Confusion and anxiety about society
+367,FALSE,Visual data required,2,Prejudice against country and race
+368,FALSE,Textual data is enough,1,Harmless
+369,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+370,FALSE,Textual data is enough,1,Harmless
+371,FALSE,Textual data is enough,1,Harmless
+372,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+373,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+374,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+375,half true & half false,Visual data required,1,Threat to honor and trust in people and companies
+376,FALSE,Textual data is enough,1,Harmless
+377,FALSE,Textual data is enough,2,Confusion and anxiety about society
+378,FALSE,Textual data is enough,1,Harmless
+379,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+380,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+381,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+382,FALSE,Textual data is enough,1,Harmless
+383,FALSE,Visual data required,2,Confusion and anxiety about society
+384,FALSE,Textual data is enough,2,Prejudice against country and race
+385,FALSE,Textual data is enough,1,Harmless
+386,FALSE,Visual data required,1,Harmless
+386,FALSE,Textual data is enough,1,Harmless
+388,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+389,FALSE,Visual data required,1,Harmless
+390,FALSE,Textual data is enough,1,Harmless
+391,FALSE,Visual data required,2,Prejudice against country and race
+392,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+393,FALSE,Textual data is enough,1,Confusion and anxiety about society
+394,FALSE,Visual data required,1,Prejudice against country and race
+395,FALSE,Visual data required,2,Prejudice against country and race
+396,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+397,FALSE,Textual data is enough,1,Harmless
+398,FALSE,Visual data required,1,Harmless
+399,FALSE,Visual data required,3,Confusion and anxiety about society
+400,FALSE,Visual data required,2,Threat to correct understanding of politics and social events
+401,FALSE,Textual data is enough,1,Harmless
+402,FALSE,Textual data is enough,3,Prejudice against country and race
+403,FALSE,Visual data required,1,Harmless
+404,FALSE,Visual data required,2,Threat to honor and trust in people and companies
+405,FALSE,Visual data required,1,Harmless
+406,FALSE,Visual data required,2,Confusion and anxiety about society
+407,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+408,FALSE,Visual data required,1,Confusion and anxiety about society
+409,FALSE,Visual data required,1,Confusion and anxiety about society
+410,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+411,FALSE,Visual data required,1,Confusion and anxiety about society
+412,FALSE,Textual data is enough,1,Confusion and anxiety about society
+413,FALSE,Textual data is enough,1,Confusion and anxiety about society
+414,FALSE,Textual data is enough,1,Confusion and anxiety about society
+415,FALSE,Textual data is enough,1,Harmless
+416,FALSE,Textual data is enough,1,Harmless
+417,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+418,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+419,FALSE,Visual data required,2,Prejudice against country and race
+420,FALSE,Textual data is enough,1,Harmless
+421,FALSE,Textual data is enough,1,Harmless
+422,FALSE,Textual data is enough,2,Prejudice against country and race
+423,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+424,half true & half false,Visual data required,1,Harmless
+425,FALSE,Textual data is enough,1,Harmless
+426,FALSE,Textual data is enough,1,Confusion and anxiety about society
+427,FALSE,Visual data required,1,Harmless
+428,FALSE,Textual data is enough,1,Harmless
+429,FALSE,Visual data required,1,Harmless
+430,FALSE,Visual data required,2,Confusion and anxiety about society
+431,FALSE,Textual data is enough,1,Conspiracy Theory
+431,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+433,FALSE,Visual data required,1,Harmless
+434,FALSE,Visual data required,2,Confusion and anxiety about society
+435,half true & half false,Textual data is enough,1,Harmless
+436,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+437,FALSE,Visual data required,1,Harmless
+438,FALSE,Textual data is enough,1,Harmless
+439,half true & half false,Textual data is enough,1,Harmless
+440,FALSE,Textual data is enough,1,Prejudice against country and race
+441,half true & half false,Visual data required,1,Harmless
+442,FALSE,Textual data is enough,1,Confusion and anxiety about society
+443,half true & half false,Textual data is enough,2,Prejudice against country and race
+444,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+445,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+446,FALSE,Visual data required,1,Harmless
+447,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+448,FALSE,Textual data is enough,1,Conspiracy Theory
+449,half true & half false,Textual data is enough,1,Harmless
+450,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+451,FALSE,Textual data is enough,2,Confusion and anxiety about society
+452,FALSE,Visual data required,1,Harmless
+453,FALSE,Textual data is enough,1,Confusion and anxiety about society
+454,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+455,half true & half false,Textual data is enough,1,Confusion and anxiety about society
+456,FALSE,Textual data is enough,2,Prejudice against country and race
+457,half true & half false,Textual data is enough,1,Harmless
+458,FALSE,Visual data required,1,Harmless
+459,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+460,FALSE,Textual data is enough,2,Prejudice against country and race
+461,FALSE,Textual data is enough,1,Harmless
+462,FALSE,Textual data is enough,2,Confusion and anxiety about society
+463,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+464,FALSE,Visual data required,2,Prejudice against country and race
+465,FALSE,Visual data required,1,Harmless
+466,half true & half false,Textual data is enough,1,Confusion and anxiety about society
+467,FALSE,Visual data required,2,Prejudice against country and race
+468,half true & half false,Visual data required,1,Confusion and anxiety about society
+469,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+470,FALSE,Textual data is enough,1,Harmless
+471,FALSE,Visual data required,1,Harmless
+472,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+473,FALSE,Textual data is enough,1,Harmless
+474,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+475,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+476,FALSE,Visual data required,1,Harmless
+477,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+478,FALSE,Textual data is enough,1,Harmless
+479,FALSE,Textual data is enough,1,Confusion and anxiety about society
+480,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+481,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+482,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+483,FALSE,Visual data required,1,Threat to honor and trust in people and companies
+484,FALSE,Visual data required,1,Harmless
+485,FALSE,Textual data is enough,2,Threat to correct understanding of politics and social events
+486,FALSE,Visual data required,2,Prejudice against country and race
+487,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+488,FALSE,Textual data is enough,2,Confusion and anxiety about society
+489,FALSE,Visual data required,2,Prejudice against country and race
+490,half true & half false,Visual data required,1,Harmless
+491,half true & half false,Textual data is enough,1,Health
+492,FALSE,Textual data is enough,1,Threat to honor and trust in people and companies
+493,FALSE,Textual data is enough,2,Not sure
+494,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+495,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+496,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+497,half true & half false,Textual data is enough,1,Threat to correct understanding of politics and social events
+498,half true & half false,Visual data required,1,Threat to honor and trust in people and companies
+499,FALSE,Textual data is enough,1,Confusion and anxiety about society
+500,FALSE,Visual data required,1,Threat to correct understanding of politics and social events
+501,FALSE,Textual data is enough,2,Confusion and anxiety about society
+502,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
+503,half true & half false,Visual data required,2,Threat to honor and trust in people and companies
+504,FALSE,Visual data required,1,Harmless
+505,FALSE,Textual data is enough,1,Threat to correct understanding of politics and social events
+506,FALSE,Textual data is enough,1,Harmless
+507,FALSE,Visual data required,2,Confusion and anxiety about society
+508,FALSE,Textual data is enough,1,Harmless
+509,half true & half false,Visual data required,1,Threat to correct understanding of politics and social events
